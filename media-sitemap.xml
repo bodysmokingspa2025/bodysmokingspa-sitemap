@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Coffee Scrub -->
+  <url>
+    <loc>https://www.bodysmokingspa.com/product-details/product/coffee-scrub</loc>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/msgsndr/0dWJ91eivAwkMLTnfEeg/media/coffee_scrub_hero.png</image:loc>
+      <image:title>Coffee Scrub – Awaken Your Glow</image:title>
+    </image:image>
+  </url>
+
+  <!-- Rose Water Steam Bath -->
+  <url>
+    <loc>https://www.bodysmokingspa.com/rose-water-steam-bath</loc>
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/0dWJ91eivAwkMLTnfEeg/media/675a93b13772bdbc8c837ead.webp</image:loc>
+      <image:title>Rose Water Steam Bath</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://storage.googleapis.com/msgsndr/0dWJ91eivAwkMLTnfEeg/media/rose_steam_thumb.jpg</video:thumbnail_loc>
+      <video:title>Rose Water Steam Ritual</video:title>
+      <video:description>Experience rejuvenation through rose steam aromatherapy at Body Smoking Spa.</video:description>
+    </video:video>
+  </url>
+
+  <!-- Gift Card -->
+  <url>
+    <loc>https://www.bodysmokingspa.com/gift-cards</loc>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/msgsndr/0dWJ91eivAwkMLTnfEeg/media/68df7169bb793af38a4fac46.png</image:loc>
+      <image:title>Body Smoking Spa Gift Card</image:title>
+    </image:image>
+  </url>
+</urlset>
